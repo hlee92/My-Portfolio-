@@ -11,3 +11,9 @@ The goal of this challenge/project was to create a professional portfolio.
 4. The projects image will take you to my GitHub page so the employer can see any projects I've been working on. 
 
 5. If you resize the page, the contents on the website will adjust itself on various screens. 
+
+GitHub: https://github.com/hlee92/My-Portfolio-
+
+
+![My Portfolio Screenshot](https://user-images.githubusercontent.com/91634095/156865485-6c1b384d-81c4-4096-b531-41ad23ebe707.png)
+
