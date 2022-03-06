@@ -14,6 +14,8 @@ The goal of this challenge/project was to create a professional portfolio.
 
 GitHub: https://github.com/hlee92/My-Portfolio-
 
+Deployed: https://hlee92.github.io/My-Portfolio-/
+
 
 ![My Portfolio Screenshot](https://user-images.githubusercontent.com/91634095/156865485-6c1b384d-81c4-4096-b531-41ad23ebe707.png)
 
