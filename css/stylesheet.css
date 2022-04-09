@@ -137,6 +137,13 @@ a {
     font-size: 20px;
     text-align: center;
 }
+
+#work ul li {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
       
 @media screen and (max-width: 767px) {
     body {
